@@ -1,0 +1,35 @@
+body{
+     margin: 0;
+     padding: 0;
+     background-image: url(https://images5.alphacoders.com/134/1346001.png);
+     background-repeat: no-repeat;
+     background-size: 100%;
+ }
+ .navbar{
+     background-color:grey;
+     overflow: hidden;
+ }
+ .navbar a{
+     text-decoration: none;
+     padding: 10px;
+     float: right;
+     display: block;
+     text-align: center;
+     border-radius: 10px;
+    
+ }
+ .navbar a:hover{
+     background-color: brown;
+     color: azure;
+ }
+ p{
+     margin-left: 10px;
+     margin-bottom: 0;
+ }
+ .hello{
+     margin-top: 500px;
+     margin-left: 1300px;
+ }
+ .hi{
+     margin-left: 90px;
+ }
